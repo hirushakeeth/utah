@@ -189,14 +189,14 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: 'Hey there! I'm the ghost in Hogwarts magical school [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg)'
-    start_hi: "❤💚💙💛Hey there! I'm the ghost in Hogwarts magical school [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg) I can help manage Hogwarts with useful features.❤💚💙💛!"
-    btn_source: "❗info"
+    start_hi_group: 'Hey there! My name is Utah'
+    start_hi: "Hey there! My name is <b>Utah.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
+    btn_source: "📦 Source code"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
-    btn_channel: "🏭Hogwarts Channel"
-    btn_group_help: "🏭Join Hogwarts"
-    btn_add: "❤💚💙💛Sorting Hat❤💚💙💛"
+    btn_channel: "News Channel"
+    btn_group_help: "Support Group"
+    btn_add: "Add me to your group"
     back: Back
 
     # /help
