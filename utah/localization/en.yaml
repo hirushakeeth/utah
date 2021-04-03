@@ -190,7 +190,7 @@ STRINGS:
 
   pm_menu:
     start_hi_group: 'Hey there! I'm the ghost in Hogwarts magical school [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg)'
-    start_hi: "❤💚💙💛Hey there! I'm the ghost in Hogwarts magical school [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg)<b>bots name.</b>\nI can help manage Hogwarts with useful features.❤💚💙💛!"
+    start_hi: "❤💚💙💛Hey there! I'm the ghost in Hogwarts magical school [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg) I can help manage Hogwarts with useful features.❤💚💙💛!"
     btn_source: "❗info"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
