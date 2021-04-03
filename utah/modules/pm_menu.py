@@ -60,9 +60,10 @@ async def get_start_func(message, strings, edit=False):
     buttons = InlineKeyboardMarkup()
     buttons.add(InlineKeyboardButton(strings['btn_help'], callback_data='get_help'),
                 InlineKeyboardButton(strings['btn_lang'], callback_data='lang_btn'))
-    buttons.add(InlineKeyboardButton(strings['btn_channel'], url='https://t.me/utahupdates'),          
-                InlineKeyboardButton(strings['btn_group_help'], url='https://t.me/botunionsupport'))
-    buttons.add(InlineKeyboardButton(strings['btn_add'], url=f'https://telegram.me/{BOT_USERNAME}?startgroup=true'))
+    buttons.add(InlineKeyboardButton(strings['btn_channel'], url='https://t.me/HogwartsPlus'),          
+                InlineKeyboardButton(strings['btn_group_help'], url='https://t.me/joinchat/wPEojnfzfdcwMmU1'))
+    buttons.add(InlineKeyboardButton(strings['btn_add'], url=f'https://telegram.me/{BOT_USERNAME}?startgroup=true'),
+                InlineKeyboardButton(strings['btn_source'], url='https://telegra.ph/Hogwarts-Bots-04-03'))
     # Handle error when user click the button 2 or more times simultaneously
     with suppress(MessageNotModified):
         await task(strings['start_hi'], reply_markup=buttons)
