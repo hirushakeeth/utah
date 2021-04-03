@@ -189,18 +189,18 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: 'Hey there! My name is Utah'
-    start_hi: "Hey there! My name is <b>Utah.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
-    btn_source: "📦 Source code"
+    start_hi_group: 'හො හො හෝ මම හොග්වෝට්ස් මායා පාසලේ තවත් එක් බූතයෙක් [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg)
+    start_hi: "හො හො හෝ මම හොග්වෝට්ස් මායා පාසලේ තවත් එක් බූතයෙක් [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg)"
+    btn_source: "❗info"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
-    btn_channel: "News Channel"
-    btn_group_help: "Support Group"
-    btn_add: "Add me to your group"
+    btn_channel: "🏭Hogwarts Channel"
+    btn_group_help: "🏭Join Hogwarts"
+    btn_add: "❤💚💙💛Sorting Hat❤💚💙💛"
     back: Back
 
     # /help
-    help_header: "Hey! My name is <b>Utah</b>. I am a group management bot, here to help you get around and keep the order in your groups!\nI have lots of handy features, such as flood control, a warning system, a note keeping system, and even predetermined replies on certain keywords."
+    help_header: "හො හො හෝ මම හොග්වෝට්ස් මායා පාසලේ තවත් එක් බූතයෙක් [❤](https://telegra.ph/file/d19eb0f7ab08f210ee8fa.jpg. මගෙේ තියන වැඩ කිඩ දැන ගන්න 👇click කරන්න."
     click_btn: Click here
 
   disable:
