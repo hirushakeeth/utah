@@ -1,0 +1,23 @@
+{
+  "name": "Hogwarts Ghosts",
+  "description": "privat! All writes reserved hogwarts ghosts project",
+  "keywords": [
+    "telegram",
+    "ghosts",
+    "plugin",
+    "telegram-DaisyX",
+    "fuck-TG"
+  ],
+  "repository": "https://github.com/TeamDaisyX/Daisy-x",
+  "website": "daisyproject.studio",
+  "success_url": "t.me/DaisyXUpdates",
+  "buildpacks": [
+   {
+     "url": "https://github.com/hirushakeeth/utah"
+   },
+   {
+     "url": "heroku/python"
+   }     
+  ]
+}  
+  
