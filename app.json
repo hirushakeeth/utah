@@ -8,12 +8,11 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
-  "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "repository": "https://github.com/hirushakeeth/utah",
+  "success_url": "https://t.me/joinchat/P8xH0t6ndKJkNzU9",
   "buildpacks": [
    {
-     "url": "https://github.com/hirushakeeth/utah"
+     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
    },
    {
      "url": "heroku/python"
