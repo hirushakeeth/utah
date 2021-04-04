@@ -17,6 +17,43 @@
    {
      "url": "heroku/python"
    }     
-  ]
+  ],
+  "env": {
+    "APP_ID":{
+      "description":"got it from my.telegrame.org",
+      "value":"",
+      "required":true
+    },
+    "APP_HASH":{
+      "description":"got it from my.telegrame.org",
+      "value":"",
+      "required":true
+    },
+    "MONGODB_URI":{
+      "description":"got it from mongodb.com",
+      "value":"",
+      "required":true
+    },
+    "MONGO_DB":{
+      "description":"don't change this",
+      "value":"utah",
+      "required":true
+    },
+    "API_PORT":{
+      "description":"don't change",
+      "value":"8080",
+      "required":true
+    },
+    "REDIS_URI":{
+      "description":"got it from redislabs.com",
+      "value":"",
+      "required":true
+    },
+    "REDIS_PORT":{
+      "description":"got it from redislabs.com මම ගෘෘප් එකේ දාල ඇති check /notes",
+      "value":"",
+      "required":true
+    },
+    "REDIS_PASS":
 }  
   
