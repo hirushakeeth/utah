@@ -1,11 +1,11 @@
 {
   "name": "Hogwarts Ghosts",
-  "description": "privat! All writes reserved hogwarts ghosts project",
+  "description": "අමාරු ඔක්කොම vars @HogwartsGhosts වල /notes වල තියනය",
   "keywords": [
     "telegram",
     "ghosts",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-HogwartsGhosts",
     "fuck-TG"
   ],
   "repository": "https://github.com/hirushakeeth/utah",
@@ -54,6 +54,46 @@
       "value":"",
       "required":true
     },
-    "REDIS_PASS":
+    "REDIS_PASS":{
+      "description":"got it from redislabs.com",
+      "value":"",
+      "required":true
+    },
+    "OWNER_ID":{
+      "description":"type your telegrame id here ඒක ගන්න ගෘප් එකේ /id කියල ගහල",
+      "value":"",
+      "required":true
+    },
+    "OPERATORS":{
+      "description":"don't change hogwarts operaters id s",
+      "value":"",
+      "required":true
+    },
+    "SW_API":{
+      "description":"get the token from @SpamWatchBot in telegrame",
+      "value":"",
+      "required":true
+    },
+    "DEBUG_MODE":{
+      "description":"",
+      "value":"false",
+      "required":false
+    },
+    "LOAD_MODULES":{
+      "description":"",
+      "value":"true",
+      "required":false
+    },
+    "ALLOW_FORWARDS_COMMANDS":{
+      "description":"",
+      "value":"true",
+      "required":false
+    },
+    "ALLOW_COMMANDS_WITH_!":{
+      "description":"",
+      "value":"false",
+      "required":false
+    }
+  }   
 }  
   
