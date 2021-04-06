@@ -8,13 +8,13 @@
 ![logo](https://telegra.ph/file/9e4dfb7c9cf54bf295271.jpg)
 
 
-මෙම බූතයන්ගේ සම්පුර්න අයිතිය
-[Hogwarts](https://t.me/HogwartsPlus) කන්ඩායම සතු වේ
-අනවසරයෙන් පිටපත් කිරිම සපුරා තහනම්
+    මෙම බූතයන්ගේ සම්පුර්න අයිතිය
+    [Hogwarts](https://t.me/HogwartsPlus) කන්ඩායම සතු වේ
+    අනවසරයෙන් පිටපත් කිරිම සපුරා තහනම්
 
 
-#Special thanks for
-[utah](https://t.me/Kasumiutahabot)
-Hasindu Theekshana
-Rex
-And all Hogwarts Admins
+# Special thanks for
+ > [utah](https://t.me/Kasumiutahabot)
+ > Hasindu Theekshana
+ > Rex
+ > And all Hogwarts Admins
