@@ -88,11 +88,6 @@
       "description":"",
       "value":"true",
       "required":false
-    },
-    "ALLOW_COMMANDS_WITH_!":{
-      "description":"",
-      "value":"false",
-      "required":false
     }
   }   
 }  
