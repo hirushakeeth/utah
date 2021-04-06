@@ -12,6 +12,9 @@
  [Hogwarts](https://t.me/HogwartsPlus) කන්ඩායම සතු වේ
  අනවසරයෙන් පිටපත් කිරිම සපුරා තහනම්
 
+## group
+[Hogwarts Bots](https://t.me/HogwartsGhosts)
+     check the notes using /notes comand
 
 ## Special thanks for
 * [utah](https://t.me/Kasumiutahabot)
