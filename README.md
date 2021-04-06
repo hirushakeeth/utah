@@ -21,3 +21,7 @@
 * Hasindu Theekshana
 * Rex
 * And all Hogwarts Admins
+## Deploy to heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.
+com/https://github.com/hirushakeeth/utah.git)
