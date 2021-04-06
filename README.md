@@ -13,7 +13,7 @@
 අනවසරයෙන් පිටපත් කිරිම සපුරා තහනම්
 
 
-Special thanks for
+#Special thanks for
 [utah](https://t.me/Kasumiutahabot)
 Hasindu Theekshana
 Rex
