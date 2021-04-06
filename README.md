@@ -13,8 +13,8 @@
     අනවසරයෙන් පිටපත් කිරිම සපුරා තහනම්
 
 
-# Special thanks for
- > [utah](https://t.me/Kasumiutahabot)
- > Hasindu Theekshana
- > Rex
- > And all Hogwarts Admins
+## Special thanks for
+* [utah](https://t.me/Kasumiutahabot)
+* Hasindu Theekshana
+* Rex
+* And all Hogwarts Admins
