@@ -14,7 +14,7 @@
 
 ## group
 [Hogwarts Bots](https://t.me/HogwartsGhosts)
-     check the notes using /notes comand
+* check the notes using /notes comand
 
 ## Special thanks for
 * [utah](https://t.me/Kasumiutahabot)
